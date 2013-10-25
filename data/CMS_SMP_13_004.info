@@ -1,0 +1,44 @@
+Name: CMS_SMP_13_004
+Year: 2013
+Summary: Measurement of the production cross sections of a Z boson in association with b jets in pp collisions at $\sqrt{s}$ = 7 TeV
+Experiment: CMS
+Collider: LHC
+InspireID: None
+Status: UNVALIDATED
+Authors:
+ - Ludivine Ceard <lceard@cern.ch>
+References:
+- CMS SMP-13-004
+# - <Example: Phys.Lett.B639:151-158,2006, Erratum-ibid.B658:285-289,2008>
+# - <Example: doi:10.1016/j.physletb.2006.04.048>
+# - <Example: arXiv:hep-ex/0511054 (plus erratum)>
+RunInfo:
+  <Insert event types (not gen-specific), energy, any kinematic
+  efficiency cut(s) that may be needed; essentially any details needed to set
+  up a generator to reproduce the data.>
+NumEvents: 1000000
+NeedCrossSection: no
+Beams:  [p+, p+]
+Energies: [7000]
+#PtCuts: <Insert list of kinematic pT cuts in GeV, e.g. [0, 20]>
+#NeedCrossSection: True
+Description:
+  'The production of a Z boson, decaying into two leptons, and produced in association
+with one or more b jets, is studied using proton-proton collisions delivered by
+the LHC at a centre-of-mass energy of 7 TeV and recorded by the CMS detector, with
+a data sample collected in 2011 corresponding to an integrated luminosity of 5 fb-1.
+Cross sections of the Z(ll)+b-jet(s) processes (where ll = ee or mm) are measured for
+Z bosons produced in association with exactly one or at least two b jets, as well as
+the cross section ratio of a Z boson produced in association with any number of b jets
+relative to those containing any number of jets. The cross sections are estimated at the
+particle level for events containing leptons with pT > 20 GeV and eta < 2.4, a dilepton
+invariant mass 76 < Mll < 106 GeV, jets with pjT > 25 GeV and eta < 2.1, and
+a separation between the leptons and the jets of DR(l, j) > 0.5. The estimated cross
+sections are then compared with different theoretical predictions. Also, kinematic
+properties are compared with the predictions from the MadGraph event generator,
+interfaced with Pythia for the parton shower.'
+BibKey: None
+BibTeX: 'None'
+ToDo:
+ - Implement the analysis, test it, remove this ToDo, and mark as VALIDATED :-)
+
