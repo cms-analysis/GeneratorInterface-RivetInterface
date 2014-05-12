@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+  <implementation version="1.1" package="Rivet"/>
+  <dataPointSet name="d01-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="AllTrackPtSpectrumVsMult">
+    <annotation>
+      <item key="Title" value="h0" sticky="true"/>
+      <item key="AidaPath" value="/h0" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="6.753935e-01" errorPlus="8.069363e-03" errorMinus="8.069363e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="7.485080e-01" errorPlus="5.297325e-03" errorMinus="5.297325e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.991424e-01" errorPlus="5.724379e-03" errorMinus="5.724379e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="8.453313e-01" errorPlus="5.427632e-03" errorMinus="5.427632e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="8.817539e-01" errorPlus="5.302873e-03" errorMinus="5.302873e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="SoftTrackPtSpectrumVsMult">
+    <annotation>
+      <item key="Title" value="h0" sticky="true"/>
+      <item key="AidaPath" value="/h0" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="6.572641e-01" errorPlus="6.851102e-03" errorMinus="6.851102e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="7.127462e-01" errorPlus="4.711480e-03" errorMinus="4.711480e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.416956e-01" errorPlus="4.253143e-03" errorMinus="4.253143e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.605593e-01" errorPlus="4.111708e-03" errorMinus="4.111708e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.686451e-01" errorPlus="3.521667e-03" errorMinus="3.521667e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d03-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="IntrajetTrackPtSpectrumVsMult">
+    <annotation>
+      <item key="Title" value="h0" sticky="true"/>
+      <item key="AidaPath" value="/h0" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="1.901981e+00" errorPlus="2.000940e-02" errorMinus="2.000940e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="1.638645e+00" errorPlus="1.486055e-02" errorMinus="1.486055e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="1.452626e+00" errorPlus="1.292435e-02" errorMinus="1.292435e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="1.319180e+00" errorPlus="1.025673e-02" errorMinus="1.025673e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="1.240581e+00" errorPlus="1.119739e-02" errorMinus="1.119739e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d04-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="IntrajetLeaderTrackPtSpectrumVsMult">
+    <annotation>
+      <item key="Title" value="h0" sticky="true"/>
+      <item key="AidaPath" value="/h0" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="3.651923e+00" errorPlus="5.012943e-02" errorMinus="5.012943e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="3.374342e+00" errorPlus="3.474272e-02" errorMinus="3.474272e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="3.146724e+00" errorPlus="3.048568e-02" errorMinus="3.048568e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="2.961523e+00" errorPlus="2.835521e-02" errorMinus="2.835521e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="2.859707e+00" errorPlus="2.792231e-02" errorMinus="2.792231e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d05-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="MeanJetPtVsMult">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="6.911407e+00" errorPlus="5.675290e-02" errorMinus="5.675290e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="7.059410e+00" errorPlus="8.599270e-02" errorMinus="8.599270e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.218519e+00" errorPlus="8.602103e-02" errorMinus="8.602103e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.369165e+00" errorPlus="1.135983e-01" errorMinus="1.135983e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="7.685445e+00" errorPlus="1.099587e-01" errorMinus="1.099587e-01"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d06-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetRate5GeV">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="5.347048e-02" errorPlus="1.071975e-02" errorMinus="1.071975e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="2.878813e-01" errorPlus="3.385196e-02" errorMinus="3.385196e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="8.507741e-01" errorPlus="6.823626e-02" errorMinus="6.823626e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="2.113308e+00" errorPlus="2.068216e-01" errorMinus="2.068216e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="3.660521e+00" errorPlus="4.205729e-01" errorMinus="4.205729e-01"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d07-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetRate30GeV">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="2.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="3.082160e-05" errorPlus="6.179108e-06" errorMinus="6.179108e-06"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.000000e+01" errorPlus="1.000000e+01" errorMinus="1.000000e+01"/>
+    <measurement value="3.397282e-04" errorPlus="3.994863e-05" errorMinus="3.994863e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="6.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="1.483071e-03" errorPlus="1.189496e-04" errorMinus="1.189496e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+01" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="4.311500e-03" errorPlus="4.219505e-04" errorMinus="4.219505e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+02" errorPlus="1.500000e+01" errorMinus="1.500000e+01"/>
+    <measurement value="1.002138e-02" errorPlus="1.151399e-03" errorMinus="1.151399e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d08-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetPtSpectrum-10-30">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.000000e+00" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.832140e-01" errorPlus="5.466341e-02" errorMinus="5.466341e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.929170e-02" errorPlus="5.463345e-03" errorMinus="5.463345e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.818410e-02" errorPlus="1.167226e-03" errorMinus="1.167226e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="5.090899e-03" errorPlus="3.652192e-04" errorMinus="3.652192e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.064228e-03" errorPlus="1.788628e-04" errorMinus="1.788628e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.177271e-04" errorPlus="1.115028e-04" errorMinus="1.115028e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.669476e-04" errorPlus="4.708374e-05" errorMinus="4.708374e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.659387e-04" errorPlus="4.170940e-05" errorMinus="4.170940e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="5.395020e-05" errorPlus="1.869172e-05" errorMinus="1.869172e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="3.790075e-05" errorPlus="2.057053e-05" errorMinus="2.057053e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.344974e-05" errorPlus="1.269351e-05" errorMinus="1.269351e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d09-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetPtSpectrum-30-50">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.000000e+00" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.643595e-01" errorPlus="5.308118e-02" errorMinus="5.308118e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="9.986122e-02" errorPlus="6.997605e-03" errorMinus="6.997605e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.269632e-02" errorPlus="1.882374e-03" errorMinus="1.882374e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="7.144913e-03" errorPlus="6.028015e-04" errorMinus="6.028015e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.738141e-03" errorPlus="1.989715e-04" errorMinus="1.989715e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.156398e-03" errorPlus="1.068470e-04" errorMinus="1.068470e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="5.622320e-04" errorPlus="6.780498e-05" errorMinus="6.780498e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.586116e-04" errorPlus="3.459155e-05" errorMinus="3.459155e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.951642e-04" errorPlus="2.923856e-05" errorMinus="2.923856e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.043738e-05" errorPlus="2.396357e-05" errorMinus="2.396357e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="4.942150e-05" errorPlus="1.308731e-05" errorMinus="1.308731e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d10-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetPtSpectrum-50-80">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.000000e+00" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.523634e-01" errorPlus="3.789776e-02" errorMinus="3.789776e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.141208e-01" errorPlus="5.754514e-03" errorMinus="5.754514e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.470544e-02" errorPlus="1.413324e-03" errorMinus="1.413324e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="7.893234e-03" errorPlus="4.956325e-04" errorMinus="4.956325e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="3.354770e-03" errorPlus="1.926789e-04" errorMinus="1.926789e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.489982e-03" errorPlus="8.623725e-05" errorMinus="8.623725e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="7.526144e-04" errorPlus="7.582320e-05" errorMinus="7.582320e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="4.536547e-04" errorPlus="5.654768e-05" errorMinus="5.654768e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.327953e-04" errorPlus="2.417441e-05" errorMinus="2.417441e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.093893e-04" errorPlus="2.313906e-05" errorMinus="2.313906e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="7.658534e-05" errorPlus="1.650857e-05" errorMinus="1.650857e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d11-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetPtSpectrum-80-110">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.000000e+00" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.320137e-01" errorPlus="3.420102e-02" errorMinus="3.420102e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.232938e-01" errorPlus="5.942007e-03" errorMinus="5.942007e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.706426e-02" errorPlus="1.484934e-03" errorMinus="1.484934e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="9.131206e-03" errorPlus="6.312585e-04" errorMinus="6.312585e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="3.366294e-03" errorPlus="2.885534e-04" errorMinus="2.885534e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.663823e-03" errorPlus="1.573391e-04" errorMinus="1.573391e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.362844e-04" errorPlus="9.509228e-05" errorMinus="9.509228e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="5.503756e-04" errorPlus="7.449603e-05" errorMinus="7.449603e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="2.353293e-04" errorPlus="4.056300e-05" errorMinus="4.056300e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.518132e-04" errorPlus="3.997129e-05" errorMinus="3.997129e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="9.423469e-05" errorPlus="2.153498e-05" errorMinus="2.153498e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d12-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetPtSpectrum-110-140">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.000000e+00" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="8.017443e-01" errorPlus="5.159430e-02" errorMinus="5.159430e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.428642e-01" errorPlus="9.982284e-03" errorMinus="9.982284e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="3.492271e-02" errorPlus="2.633139e-03" errorMinus="2.633139e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="9.807414e-03" errorPlus="8.728233e-04" errorMinus="8.728233e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="4.430273e-03" errorPlus="4.856953e-04" errorMinus="4.856953e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.955551e-03" errorPlus="3.078060e-04" errorMinus="3.078060e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.100000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="9.966842e-04" errorPlus="1.766515e-04" errorMinus="1.766515e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.500000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="6.197160e-04" errorPlus="1.247972e-04" errorMinus="1.247972e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.900000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="3.205465e-04" errorPlus="5.427738e-05" errorMinus="5.427738e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.300000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.963716e-04" errorPlus="7.695184e-05" errorMinus="7.695184e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.700000e+01" errorPlus="2.000000e+00" errorMinus="2.000000e+00"/>
+    <measurement value="1.426139e-04" errorPlus="9.823945e-05" errorMinus="9.823945e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d13-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetStructure-10-30">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="4.000000e-02" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="3.050084e-01" errorPlus="8.966079e-03" errorMinus="8.966079e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.200000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.859020e-01" errorPlus="1.002835e-02" errorMinus="1.002835e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.000000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.901139e-01" errorPlus="7.773506e-03" errorMinus="7.773506e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.800000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.154167e-01" errorPlus="6.239938e-03" errorMinus="6.239938e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.600000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="6.627490e-02" errorPlus="4.157493e-03" errorMinus="4.157493e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.400000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.582167e-02" errorPlus="2.846955e-03" errorMinus="2.846955e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d14-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetStructure-30-50">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="4.000000e-02" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.404754e-01" errorPlus="5.275714e-03" errorMinus="5.275714e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.200000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.794612e-01" errorPlus="6.430511e-03" errorMinus="6.430511e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.000000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.064652e-01" errorPlus="5.723391e-03" errorMinus="5.723391e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.800000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.382351e-01" errorPlus="4.818516e-03" errorMinus="4.818516e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.600000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="8.553314e-02" errorPlus="4.000916e-03" errorMinus="4.000916e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.400000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="3.805230e-02" errorPlus="2.222078e-03" errorMinus="2.222078e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d15-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetStructure-50-80">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="4.000000e-02" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.954638e-01" errorPlus="8.754787e-03" errorMinus="8.754787e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.200000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.659335e-01" errorPlus="5.611140e-03" errorMinus="5.611140e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.000000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.180142e-01" errorPlus="4.942684e-03" errorMinus="4.942684e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.800000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.557545e-01" errorPlus="4.036550e-03" errorMinus="4.036550e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.600000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.034237e-01" errorPlus="3.823756e-03" errorMinus="3.823756e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.400000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="4.922482e-02" errorPlus="2.451078e-03" errorMinus="2.451078e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d16-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetStructure-80-110">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="4.000000e-02" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.567093e-01" errorPlus="9.039179e-03" errorMinus="9.039179e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.200000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.564202e-01" errorPlus="8.118777e-03" errorMinus="8.118777e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.000000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.273889e-01" errorPlus="6.475824e-03" errorMinus="6.475824e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.800000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.693726e-01" errorPlus="5.757001e-03" errorMinus="5.757001e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.600000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.166630e-01" errorPlus="4.752881e-03" errorMinus="4.752881e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.400000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="6.237010e-02" errorPlus="3.527160e-03" errorMinus="3.527160e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d17-x01-y01" dimension="2"
+      path="/REF/CMS_2013_I1261026" title="JetStructure-110-140">
+    <annotation>
+      <item key="Title" value="_h_ChPartPtSpectrum" sticky="true"/>
+      <item key="AidaPath" value="/_h_ChPartPtSpectrum" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="4.000000e-02" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.318282e-01" errorPlus="1.056689e-02" errorMinus="1.056689e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.200000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.421711e-01" errorPlus="1.583872e-02" errorMinus="1.583872e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.000000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="2.325307e-01" errorPlus="1.476615e-02" errorMinus="1.476615e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.800000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.801362e-01" errorPlus="1.409210e-02" errorMinus="1.409210e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.600000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="1.296472e-01" errorPlus="1.107211e-02" errorMinus="1.107211e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="4.400000e-01" errorPlus="4.000000e-02" errorMinus="4.000000e-02"/>
+    <measurement value="7.132784e-02" errorPlus="8.272134e-03" errorMinus="8.272134e-03"/>
+  </dataPoint>
+  </dataPointSet>
+</aida>
