@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+  <implementation version="1.0" package="HepData"/>
+  <dataPointSet name="d01-x01-y01" dimension="2" path="/REF/CMS_2011_I883318" title="(0.5)*SIG IN MUB" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="0.5" errorMinus="0.5"/>
+      <measurement value="28.1" errorPlus="3.1240998703626617" errorMinus="3.1240998703626617"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y01" dimension="2" path="/REF/CMS_2011_I883318" title="(0.5)*D(SIG)/DPT IN MUB/GEV" >
+    <dataPoint>
+      <measurement value="7.5" errorPlus="2.5" errorMinus="2.5"/>
+      <measurement value="4.07" errorPlus="0.5630275304103699" errorMinus="0.5630275304103699"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="11.5" errorPlus="1.5" errorMinus="1.5"/>
+      <measurement value="1.47" errorPlus="0.15811388300841897" errorMinus="0.15811388300841897"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="15.0" errorPlus="2.0" errorMinus="2.0"/>
+      <measurement value="0.412" errorPlus="0.048548944375753425" errorMinus="0.048548944375753425"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="20.5" errorPlus="3.5" errorMinus="3.5"/>
+      <measurement value="0.181" errorPlus="0.019209372712298545" errorMinus="0.019209372712298545"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="27.0" errorPlus="3.0" errorMinus="3.0"/>
+      <measurement value="0.042" errorPlus="0.00806225774829855" errorMinus="0.00806225774829855"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y02" dimension="2" path="/REF/CMS_2011_I883318" title=" (0.5)*SIG IN MUB" >
+    <dataPoint>
+      <measurement value="0.0" errorPlus="30.0" errorMinus="30.0"/>
+      <measurement value="0.188" errorPlus="0.03847076812334269" errorMinus="0.03847076812334269"/>
+    </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d03-x01-y01" dimension="2" path="/REF/CMS_2011_I883318" title="(0.5)*D(SIG)/DYRAP IN MUB" >
+    <dataPoint>
+      <measurement value="0.3" errorPlus="0.3" errorMinus="0.3"/>
+      <measurement value="7.39" errorPlus="0.8386894538504702" errorMinus="0.8386894538504702"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="0.8500000000000001" errorPlus="0.25" errorMinus="0.2500000000000001"/>
+      <measurement value="6.11" errorPlus="0.7940403012442127" errorMinus="0.7940403012442127"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.275" errorPlus="0.17500000000000004" errorMinus="0.17499999999999982"/>
+      <measurement value="7.11" errorPlus="0.9078546139112803" errorMinus="0.9078546139112803"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="1.625" errorPlus="0.17500000000000004" errorMinus="0.17500000000000004"/>
+      <measurement value="5.01" errorPlus="0.6920260110718383" errorMinus="0.6920260110718383"/>
+    </dataPoint>
+    <dataPoint>
+      <measurement value="2.1" errorPlus="0.2999999999999998" errorMinus="0.30000000000000004"/>
+      <measurement value="3.31" errorPlus="0.5047771785649585" errorMinus="0.5047771785649585"/>
+    </dataPoint>
+  </dataPointSet>
+</aida>

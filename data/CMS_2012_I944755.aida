@@ -1,0 +1,3298 @@
+<?xml version="1.0" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+  <implementation version="1.1" package="Rivet"/>
+  <dataPointSet name="d01-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV ( |y| &lt; 0.9, prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV ( |y| &lt; 0.9, prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d01-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.540000e+00" errorPlus="1.360147e-01" errorMinus="1.360147e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.560000e+00" errorPlus="1.122497e-01" errorMinus="1.122497e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.600000e-01" errorPlus="6.000000e-02" errorMinus="6.000000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.120000e-01" errorPlus="3.667424e-02" errorMinus="3.667424e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.510000e-01" errorPlus="2.002498e-02" errorMinus="2.002498e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.840000e-01" errorPlus="9.486833e-03" errorMinus="9.486833e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="8.410000e-02" errorPlus="4.423799e-03" errorMinus="4.423799e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="1.390000e-02" errorPlus="8.062258e-04" errorMinus="8.062258e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="7.800000e-04" errorPlus="5.196152e-05" errorMinus="5.196152e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="7.000000e-05" errorPlus="1.862794e-05" errorMinus="1.862794e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d01-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( |y| &lt; 0.9, non-prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( |y| &lt; 0.9, non-prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d01-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.460000e-01" errorPlus="5.190376e-02" errorMinus="5.190376e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.200000e-01" errorPlus="4.582576e-02" errorMinus="4.582576e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.510000e-01" errorPlus="2.908608e-02" errorMinus="2.908608e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.220000e-01" errorPlus="2.002498e-02" errorMinus="2.002498e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="2.090000e-01" errorPlus="1.200000e-02" errorMinus="1.200000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.310000e-01" errorPlus="7.071068e-03" errorMinus="7.071068e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="7.000000e-02" errorPlus="3.678315e-03" errorMinus="3.678315e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="1.600000e-02" errorPlus="9.000000e-04" errorMinus="9.000000e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.340000e-03" errorPlus="9.273618e-05" errorMinus="9.273618e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="1.300000e-04" errorPlus="3.316625e-05" errorMinus="3.316625e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 0.9&lt; |y| &lt; 1.2 , prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 0.9&lt; |y| &lt; 1.2 , prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d02-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.620000e+00" errorPlus="1.972308e-01" errorMinus="1.972308e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.550000e+00" errorPlus="1.431782e-01" errorMinus="1.431782e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="7.500000e-01" errorPlus="5.385165e-02" errorMinus="5.385165e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.480000e-01" errorPlus="1.746425e-02" errorMinus="1.746425e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.640000e-02" errorPlus="1.435270e-03" errorMinus="1.435270e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="6.700000e-04" errorPlus="8.366600e-05" errorMinus="8.366600e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d02-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 0.9&lt; |y| &lt; 1.2 , nonprompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 0.9&lt; |y| &lt; 1.2 , nonprompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d02-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.400000e-01" errorPlus="7.810250e-02" errorMinus="7.810250e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.000000e-01" errorPlus="5.744563e-02" errorMinus="5.744563e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.580000e-01" errorPlus="2.569047e-02" errorMinus="2.569047e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.520000e-01" errorPlus="1.077033e-02" errorMinus="1.077033e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.450000e-02" errorPlus="1.311488e-03" errorMinus="1.311488e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.070000e-03" errorPlus="1.153256e-04" errorMinus="1.153256e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d03-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2&lt; |y| &lt; 1.6 , prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2&lt; |y| &lt; 1.6 , prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d03-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.090000e+00" errorPlus="6.016644e-01" errorMinus="6.016644e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.280000e+00" errorPlus="3.373426e-01" errorMinus="3.373426e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="4.160000e+00" errorPlus="2.624881e-01" errorMinus="2.624881e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.920000e+00" errorPlus="1.854724e-01" errorMinus="1.854724e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.240000e+00" errorPlus="1.772005e-01" errorMinus="1.772005e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.470000e+00" errorPlus="9.380832e-02" errorMinus="9.380832e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.400000e-01" errorPlus="4.690416e-02" errorMinus="4.690416e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.280000e-01" errorPlus="3.264966e-02" errorMinus="3.264966e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.270000e-01" errorPlus="1.303840e-02" errorMinus="1.303840e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.320000e-02" errorPlus="1.244990e-03" errorMinus="1.244990e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="8.000000e-04" errorPlus="1.044031e-04" errorMinus="1.044031e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d03-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2&lt; |y| &lt; 1.6 , nonprompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2&lt; |y| &lt; 1.6 , nonprompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d03-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.850000e+00" errorPlus="1.655295e-01" errorMinus="1.655295e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.500000e+00" errorPlus="1.048809e-01" errorMinus="1.048809e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.170000e+00" errorPlus="9.486833e-02" errorMinus="9.486833e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="9.100000e-01" errorPlus="7.071068e-02" errorMinus="7.071068e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.600000e-01" errorPlus="6.557439e-02" errorMinus="6.557439e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.580000e-01" errorPlus="3.753665e-02" errorMinus="3.753665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.570000e-01" errorPlus="2.418677e-02" errorMinus="2.418677e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.670000e-01" errorPlus="1.813836e-02" errorMinus="1.813836e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.370000e-01" errorPlus="8.366600e-03" errorMinus="8.366600e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.020000e-02" errorPlus="1.135782e-03" errorMinus="1.135782e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.130000e-03" errorPlus="1.349074e-04" errorMinus="1.349074e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d04-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6&lt; |y| &lt; 2.1 , prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6&lt; |y| &lt; 2.1 , prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d04-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.700000e+00" errorPlus="6.403124e-01" errorMinus="6.403124e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="5.730000e+00" errorPlus="5.084290e-01" errorMinus="5.084290e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="5.040000e+00" errorPlus="4.438468e-01" errorMinus="4.438468e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="3.760000e+00" errorPlus="3.106445e-01" errorMinus="3.106445e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.670000e+00" errorPlus="2.027313e-01" errorMinus="2.027313e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.180000e+00" errorPlus="1.558846e-01" errorMinus="1.558846e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.500000e+00" errorPlus="9.380832e-02" errorMinus="9.380832e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.400000e-01" errorPlus="5.830952e-02" errorMinus="5.830952e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.120000e-01" errorPlus="3.672874e-02" errorMinus="3.672874e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.320000e-01" errorPlus="1.542725e-02" errorMinus="1.542725e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.200000e-02" errorPlus="1.407125e-03" errorMinus="1.407125e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d04-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6&lt; |y| &lt; 2.1 , nonprompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6&lt; |y| &lt; 2.1 , nonprompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d04-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.920000e+00" errorPlus="2.049390e-01" errorMinus="2.049390e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.670000e+00" errorPlus="1.643168e-01" errorMinus="1.643168e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.590000e+00" errorPlus="1.473092e-01" errorMinus="1.473092e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.140000e+00" errorPlus="1.144552e-01" errorMinus="1.144552e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="8.300000e-01" errorPlus="7.348469e-02" errorMinus="7.348469e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.300000e-01" errorPlus="6.557439e-02" errorMinus="6.557439e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.200000e-01" errorPlus="4.123106e-02" errorMinus="4.123106e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.570000e-01" errorPlus="2.603843e-02" errorMinus="2.603843e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.420000e-01" errorPlus="2.049390e-02" errorMinus="2.049390e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.280000e-01" errorPlus="9.899495e-03" errorMinus="9.899495e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.860000e-02" errorPlus="1.244990e-03" errorMinus="1.244990e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d05-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 2.1&lt; |y| &lt; 2.4 , prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 2.1&lt; |y| &lt; 2.4 , prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d05-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="5.260000e+00" errorPlus="4.675468e-01" errorMinus="4.675468e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.520000e+00" errorPlus="2.749545e-01" errorMinus="2.749545e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.300000e+00" errorPlus="1.568439e-01" errorMinus="1.568439e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="6.600000e-01" errorPlus="8.602325e-02" errorMinus="8.602325e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.070000e-01" errorPlus="2.177154e-02" errorMinus="2.177154e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.710000e-02" errorPlus="1.783255e-03" errorMinus="1.783255e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d05-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 2.1&lt; |y| &lt; 2.4 , non-prompt psi )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 2.1&lt; |y| &lt; 2.4 , non-prompt psi )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d05-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="1.430000e+00" errorPlus="1.486607e-01" errorMinus="1.486607e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.400000e-01" errorPlus="1.044031e-01" errorMinus="1.044031e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.900000e-01" errorPlus="6.708204e-02" errorMinus="6.708204e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.700000e-01" errorPlus="3.741657e-02" errorMinus="3.741657e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.210000e-01" errorPlus="1.349074e-02" errorMinus="1.349074e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.310000e-02" errorPlus="1.449138e-03" errorMinus="1.449138e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d06-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV (  |y| &lt; 1.2, prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV (  |y| &lt; 1.2, prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d06-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.480000e-01" errorPlus="3.573514e-02" errorMinus="3.573514e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.300000e-02" errorPlus="1.044031e-02" errorMinus="1.044031e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.100000e-02" errorPlus="6.708204e-03" errorMinus="6.708204e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.680000e-02" errorPlus="4.141256e-03" errorMinus="4.141256e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.170000e-02" errorPlus="3.043025e-03" errorMinus="3.043025e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.410000e-02" errorPlus="1.603122e-03" errorMinus="1.603122e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="7.700000e-03" errorPlus="9.695360e-04" errorMinus="9.695360e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.680000e-03" errorPlus="3.760319e-04" errorMinus="3.760319e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="6.600000e-04" errorPlus="7.681146e-05" errorMinus="7.681146e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d06-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV(  |y| &lt; 1.2, non-prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV(  |y| &lt; 1.2, non-prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d06-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="7.200000e-02" errorPlus="1.746425e-02" errorMinus="1.746425e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.500000e-02" errorPlus="5.385165e-03" errorMinus="5.385165e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.070000e-02" errorPlus="3.867816e-03" errorMinus="3.867816e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.230000e-02" errorPlus="2.703701e-03" errorMinus="2.703701e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.420000e-02" errorPlus="2.222611e-03" errorMinus="2.222611e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.070000e-02" errorPlus="1.200000e-03" errorMinus="1.200000e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="6.500000e-03" errorPlus="9.000000e-04" errorMinus="9.000000e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.500000e-03" errorPlus="3.515679e-04" errorMinus="3.515679e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="8.800000e-04" errorPlus="1.004988e-04" errorMinus="1.004988e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d07-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2 &lt; |y| &lt; 1.6, prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2 &lt; |y| &lt; 1.6, prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d07-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.200000e-01" errorPlus="3.146427e-01" errorMinus="3.146427e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.870000e-01" errorPlus="2.455606e-02" errorMinus="2.455606e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.800000e-02" errorPlus="1.244990e-02" errorMinus="1.244990e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.800000e-02" errorPlus="1.100000e-02" errorMinus="1.100000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.640000e-02" errorPlus="3.849675e-03" errorMinus="3.849675e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.090000e-02" errorPlus="1.951922e-03" errorMinus="1.951922e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.320000e-03" errorPlus="1.774824e-04" errorMinus="1.774824e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d07-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2 &lt; |y| &lt; 1.6, non-prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.2 &lt; |y| &lt; 1.6, non-prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d07-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.010000e-01" errorPlus="1.029272e-01" errorMinus="1.029272e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="8.300000e-02" errorPlus="1.086278e-02" errorMinus="1.086278e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.500000e-02" errorPlus="5.916080e-03" errorMinus="5.916080e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.800000e-02" errorPlus="5.744563e-03" errorMinus="5.744563e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.520000e-02" errorPlus="2.418677e-03" errorMinus="2.418677e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.500000e-03" errorPlus="1.240967e-03" errorMinus="1.240967e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.360000e-03" errorPlus="1.774824e-04" errorMinus="1.774824e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d08-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6 &lt; |y| &lt; 2.4, prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV( 1.6 &lt; |y| &lt; 2.4, prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d08-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.300000e-01" errorPlus="1.994994e-01" errorMinus="1.994994e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.850000e-01" errorPlus="3.472751e-02" errorMinus="3.472751e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.800000e-02" errorPlus="1.392839e-02" errorMinus="1.392839e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.900000e-02" errorPlus="1.081665e-02" errorMinus="1.081665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.190000e-02" errorPlus="3.925557e-03" errorMinus="3.925557e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="9.000000e-03" errorPlus="1.417745e-03" errorMinus="1.417745e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="9.300000e-04" errorPlus="1.496663e-04" errorMinus="1.496663e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d08-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV ( 1.6 &lt; |y| &lt; 2.4, non- prompt psi(2s) )">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV ( 1.6 &lt; |y| &lt; 2.4, non- prompt psi(2s) )" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d08-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.200000e-01" errorPlus="6.403124e-02" errorMinus="6.403124e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.400000e-02" errorPlus="1.081665e-02" errorMinus="1.081665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.300000e-02" errorPlus="7.141428e-03" errorMinus="7.141428e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.100000e-02" errorPlus="5.744563e-03" errorMinus="5.744563e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.290000e-02" errorPlus="2.598076e-03" errorMinus="2.598076e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="5.300000e-03" errorPlus="8.062258e-04" errorMinus="8.062258e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="7.500000e-04" errorPlus="1.256981e-04" errorMinus="1.256981e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d09-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV (uncorrectde)">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV (uncorrectde)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d09-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.360000e-01" errorPlus="1.236932e-02" errorMinus="1.236932e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.910000e-01" errorPlus="2.165641e-02" errorMinus="2.165641e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.540000e-01" errorPlus="1.640122e-02" errorMinus="1.640122e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.000000e-01" errorPlus="1.200000e-02" errorMinus="1.200000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.380000e-01" errorPlus="8.062258e-03" errorMinus="8.062258e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="8.560000e-02" errorPlus="4.588028e-03" errorMinus="4.588028e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.540000e-02" errorPlus="2.360085e-03" errorMinus="2.360085e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="9.300000e-03" errorPlus="5.385165e-04" errorMinus="5.385165e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="7.800000e-04" errorPlus="5.196152e-05" errorMinus="5.196152e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="7.000000e-05" errorPlus="1.862794e-05" errorMinus="1.862794e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d09-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d09-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.770000e-02" errorPlus="4.778075e-03" errorMinus="4.778075e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.160000e-01" errorPlus="8.831761e-03" errorMinus="8.831761e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.190000e-01" errorPlus="8.062258e-03" errorMinus="8.062258e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.050000e-01" errorPlus="6.708204e-03" errorMinus="6.708204e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="8.200000e-02" errorPlus="4.358899e-03" errorMinus="4.358899e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="6.120000e-02" errorPlus="3.269557e-03" errorMinus="3.269557e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.780000e-02" errorPlus="1.987461e-03" errorMinus="1.987461e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="1.070000e-02" errorPlus="6.000000e-04" errorMinus="6.000000e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.340000e-03" errorPlus="9.273618e-05" errorMinus="9.273618e-05"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="1.300000e-04" errorPlus="3.316625e-05" errorMinus="3.316625e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d10-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d10-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.960000e-01" errorPlus="3.047950e-02" errorMinus="3.047950e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.690000e-01" errorPlus="3.445287e-02" errorMinus="3.445287e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.540000e-01" errorPlus="1.746425e-02" errorMinus="1.746425e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.170000e-01" errorPlus="8.366600e-03" errorMinus="8.366600e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.680000e-02" errorPlus="9.000000e-04" errorMinus="9.000000e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="6.700000e-04" errorPlus="8.366600e-05" errorMinus="8.366600e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d10-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d10-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.420000e-01" errorPlus="1.153256e-02" errorMinus="1.153256e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.440000e-01" errorPlus="1.400000e-02" errorMinus="1.400000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.220000e-01" errorPlus="9.110434e-03" errorMinus="9.110434e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="7.100000e-02" errorPlus="5.385165e-03" errorMinus="5.385165e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.550000e-02" errorPlus="8.246211e-04" errorMinus="8.246211e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.070000e-03" errorPlus="1.153256e-04" errorMinus="1.153256e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d11-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d11-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.680000e-01" errorPlus="2.304344e-02" errorMinus="2.304344e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="3.770000e-01" errorPlus="2.404163e-02" errorMinus="2.404163e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.460000e-01" errorPlus="3.436568e-02" errorMinus="3.436568e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.390000e-01" errorPlus="3.472751e-02" errorMinus="3.472751e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.100000e-01" errorPlus="4.123106e-02" errorMinus="4.123106e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.290000e-01" errorPlus="2.643861e-02" errorMinus="2.643861e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.080000e-01" errorPlus="1.876166e-02" errorMinus="1.876166e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.210000e-01" errorPlus="1.345362e-02" errorMinus="1.345362e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.160000e-01" errorPlus="6.708204e-03" errorMinus="6.708204e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.550000e-02" errorPlus="8.366600e-04" errorMinus="8.366600e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="8.000000e-04" errorPlus="1.044031e-04" errorMinus="1.044031e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d11-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d11-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.000000e-02" errorPlus="6.403124e-03" errorMinus="6.403124e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.070000e-01" errorPlus="7.549834e-03" errorMinus="7.549834e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.530000e-01" errorPlus="1.236932e-02" errorMinus="1.236932e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.690000e-01" errorPlus="1.288410e-02" errorMinus="1.288410e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.720000e-01" errorPlus="1.513275e-02" errorMinus="1.513275e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.620000e-01" errorPlus="1.077033e-02" errorMinus="1.077033e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.320000e-01" errorPlus="8.774964e-03" errorMinus="8.774964e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.120000e-01" errorPlus="7.071068e-03" errorMinus="7.071068e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.970000e-02" errorPlus="4.200000e-03" errorMinus="4.200000e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.350000e-02" errorPlus="7.681146e-04" errorMinus="7.681146e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.130000e-03" errorPlus="1.349074e-04" errorMinus="1.349074e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d12-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d12-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="4.640000e-01" errorPlus="4.076763e-02" errorMinus="4.076763e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="5.800000e-01" errorPlus="5.385165e-02" errorMinus="5.385165e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="6.200000e-01" errorPlus="5.385165e-02" errorMinus="5.385165e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="6.300000e-01" errorPlus="5.830952e-02" errorMinus="5.830952e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="6.100000e-01" errorPlus="4.123106e-02" errorMinus="4.123106e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.760000e-01" errorPlus="3.983717e-02" errorMinus="3.983717e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.660000e-01" errorPlus="3.093542e-02" errorMinus="3.093542e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.140000e-01" errorPlus="2.156386e-02" errorMinus="2.156386e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.220000e-01" errorPlus="1.565248e-02" errorMinus="1.565248e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.180000e-01" errorPlus="7.681146e-03" errorMinus="7.681146e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.480000e-02" errorPlus="9.380832e-04" errorMinus="9.380832e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d12-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d12-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.150000e-01" errorPlus="1.268858e-02" errorMinus="1.268858e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.700000e-01" errorPlus="1.643168e-02" errorMinus="1.643168e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.960000e-01" errorPlus="1.881489e-02" errorMinus="1.881489e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.930000e-01" errorPlus="1.878829e-02" errorMinus="1.878829e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.910000e-01" errorPlus="1.878829e-02" errorMinus="1.878829e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.920000e-01" errorPlus="1.723369e-02" errorMinus="1.723369e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.620000e-01" errorPlus="1.349074e-02" errorMinus="1.349074e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.340000e-01" errorPlus="9.486833e-03" errorMinus="9.486833e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.050000e-01" errorPlus="9.000000e-03" errorMinus="9.000000e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.500000e-02" errorPlus="5.385165e-03" errorMinus="5.385165e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.250000e-02" errorPlus="8.366600e-04" errorMinus="8.366600e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d13-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d13-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="1.210000e-01" errorPlus="1.048809e-02" errorMinus="1.048809e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.940000e-01" errorPlus="2.080865e-02" errorMinus="2.080865e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.600000e-01" errorPlus="1.868154e-02" errorMinus="1.868154e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.140000e-01" errorPlus="1.476482e-02" errorMinus="1.476482e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="5.500000e-02" errorPlus="5.385165e-03" errorMinus="5.385165e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="7.700000e-03" errorPlus="8.366600e-04" errorMinus="8.366600e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d13-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d13-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="3.300000e-02" errorPlus="3.472751e-03" errorMinus="3.472751e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.700000e-02" errorPlus="7.483315e-03" errorMinus="7.483315e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.100000e-02" errorPlus="8.062258e-03" errorMinus="8.062258e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.700000e-02" errorPlus="6.164414e-03" errorMinus="6.164414e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.200000e-02" errorPlus="3.367492e-03" errorMinus="3.367492e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="5.800000e-03" errorPlus="6.164414e-04" errorMinus="6.164414e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d14-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d14-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.900000e-03" errorPlus="9.643651e-04" errorMinus="9.643651e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.800000e-03" errorPlus="1.284523e-03" errorMinus="1.284523e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.270000e-02" errorPlus="1.449138e-03" errorMinus="1.449138e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.040000e-02" errorPlus="1.208305e-03" errorMinus="1.208305e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.500000e-03" errorPlus="1.104536e-03" errorMinus="1.104536e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.900000e-03" errorPlus="6.000000e-04" errorMinus="6.000000e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.600000e-03" errorPlus="4.358899e-04" errorMinus="4.358899e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.020000e-03" errorPlus="2.002498e-04" errorMinus="2.002498e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="4.300000e-04" errorPlus="4.690416e-05" errorMinus="4.690416e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d14-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d14-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.880000e-03" errorPlus="4.512206e-04" errorMinus="4.512206e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.300000e-03" errorPlus="6.708204e-04" errorMinus="6.708204e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.400000e-03" errorPlus="7.681146e-04" errorMinus="7.681146e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.300000e-03" errorPlus="7.681146e-04" errorMinus="7.681146e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.900000e-03" errorPlus="7.483315e-04" errorMinus="7.483315e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.400000e-03" errorPlus="4.690416e-04" errorMinus="4.690416e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.040000e-03" errorPlus="4.002499e-04" errorMinus="4.002499e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.920000e-03" errorPlus="1.923538e-04" errorMinus="1.923538e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="5.800000e-04" errorPlus="5.385165e-05" errorMinus="5.385165e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d15-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d15-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.090000e-02" errorPlus="5.473573e-03" errorMinus="5.473573e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.540000e-02" errorPlus="2.032240e-03" errorMinus="2.032240e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.630000e-02" errorPlus="2.603843e-03" errorMinus="2.603843e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.670000e-02" errorPlus="3.049590e-03" errorMinus="3.049590e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.030000e-02" errorPlus="1.496663e-03" errorMinus="1.496663e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="5.500000e-03" errorPlus="9.433981e-04" errorMinus="9.433981e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="8.800000e-04" errorPlus="1.268858e-04" errorMinus="1.268858e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d15-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d15-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.600000e-03" errorPlus="1.870829e-03" errorMinus="1.870829e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="6.870000e-03" errorPlus="9.347727e-04" errorMinus="9.347727e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.300000e-03" errorPlus="1.256981e-03" errorMinus="1.256981e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.000000e-03" errorPlus="1.655295e-03" errorMinus="1.655295e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="6.000000e-03" errorPlus="9.433981e-04" errorMinus="9.433981e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.300000e-03" errorPlus="6.480741e-04" errorMinus="6.480741e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="9.200000e-04" errorPlus="1.268858e-04" errorMinus="1.268858e-04"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d16-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d16-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.800000e-03" errorPlus="3.138471e-03" errorMinus="3.138471e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.570000e-02" errorPlus="2.886174e-03" errorMinus="2.886174e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.340000e-02" errorPlus="2.355844e-03" errorMinus="2.355844e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.150000e-02" errorPlus="2.672078e-03" errorMinus="2.672078e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="7.300000e-03" errorPlus="1.307670e-03" errorMinus="1.307670e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.900000e-03" errorPlus="6.164414e-04" errorMinus="6.164414e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="5.500000e-04" errorPlus="8.831761e-05" errorMinus="8.831761e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d16-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="D2(SIG)/DPT/DYRAP IN NB/GEV">
+    <annotation>
+      <item key="Title" value="D2(SIG)/DPT/DYRAP IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d16-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.800000e-03" errorPlus="1.067708e-03" errorMinus="1.067708e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.800000e-03" errorPlus="8.717798e-04" errorMinus="8.717798e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.700000e-03" errorPlus="1.148913e-03" errorMinus="1.148913e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.900000e-03" errorPlus="1.296148e-03" errorMinus="1.296148e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.300000e-03" errorPlus="8.717798e-04" errorMinus="8.717798e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.300000e-03" errorPlus="3.597221e-04" errorMinus="3.597221e-04"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.400000e-04" errorPlus="7.483315e-05" errorMinus="7.483315e-05"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d17-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d17-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.080000e-02" errorPlus="5.495453e-03" errorMinus="6.418723e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.700000e-02" errorPlus="6.469930e-03" errorMinus="6.469930e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.510000e-02" errorPlus="6.363961e-03" errorMinus="6.363961e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.690000e-02" errorPlus="7.357989e-03" errorMinus="7.357989e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.080000e-02" errorPlus="6.465292e-03" errorMinus="7.402702e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.400000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.420000e-02" errorPlus="7.526619e-03" errorMinus="8.464632e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.150000e-02" errorPlus="5.612486e-03" errorMinus="7.449832e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="4.620000e-02" errorPlus="6.014150e-03" errorMinus="7.756932e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d17-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d17-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.800000e-02" errorPlus="6.138404e-03" errorMinus="6.977105e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.830000e-02" errorPlus="6.735726e-03" errorMinus="6.735726e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.520000e-02" errorPlus="6.603787e-03" errorMinus="6.603787e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.660000e-02" errorPlus="7.551159e-03" errorMinus="7.551159e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.250000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.190000e-02" errorPlus="6.760178e-03" errorMinus="7.661593e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.400000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="5.270000e-02" errorPlus="7.723989e-03" errorMinus="8.640602e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.750000e-02" errorPlus="5.783597e-03" errorMinus="7.579578e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="5.400000e-02" errorPlus="6.164414e-03" errorMinus="7.874008e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d18-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d18-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.000000e-02" errorPlus="8.717798e-03" errorMinus="8.717798e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.300000e-02" errorPlus="8.062258e-03" errorMinus="7.348469e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.100000e-02" errorPlus="9.000000e-03" errorMinus="9.695360e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.900000e-02" errorPlus="8.366600e-03" errorMinus="9.695360e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="5.400000e-02" errorPlus="1.374773e-02" errorMinus="1.374773e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="5.500000e-02" errorPlus="1.044031e-02" errorMinus="1.170470e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d18-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d18-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.400000e-02" errorPlus="1.044031e-02" errorMinus="1.044031e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.200000e-02" errorPlus="9.000000e-03" errorMinus="8.366600e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.700000e-02" errorPlus="1.004988e-02" errorMinus="1.067708e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.700000e-02" errorPlus="9.110434e-03" errorMinus="1.034408e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.900000e-02" errorPlus="1.303840e-02" errorMinus="1.303840e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="6.300000e-02" errorPlus="1.122497e-02" errorMinus="1.240967e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d19-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d19-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.900000e-02" errorPlus="6.557439e-03" errorMinus="8.185353e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.020000e-02" errorPlus="5.830952e-03" errorMinus="6.708204e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.000000e-02" errorPlus="8.246211e-03" errorMinus="9.000000e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.170000e-02" errorPlus="5.822371e-03" errorMinus="6.700746e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.060000e-02" errorPlus="6.174949e-03" errorMinus="7.882259e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.430000e-02" errorPlus="6.590903e-03" errorMinus="9.079648e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d19-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d19-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.180000e-02" errorPlus="6.220932e-03" errorMinus="7.918333e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.350000e-02" errorPlus="6.621933e-03" errorMinus="7.406079e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.200000e-02" errorPlus="8.246211e-03" errorMinus="9.000000e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.680000e-02" errorPlus="6.705967e-03" errorMinus="7.481310e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.460000e-02" errorPlus="6.392183e-03" errorMinus="8.053571e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.510000e-02" errorPlus="6.679820e-03" errorMinus="9.144397e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d20-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d20-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.580000e-02" errorPlus="7.355270e-03" errorMinus="8.191459e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.230000e-02" errorPlus="5.696490e-03" errorMinus="6.591661e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.670000e-02" errorPlus="6.771263e-03" errorMinus="6.771263e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.550000e-02" errorPlus="6.615134e-03" errorMinus="6.615134e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.220000e-02" errorPlus="6.923150e-03" errorMinus="8.713782e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.410000e-02" errorPlus="6.240192e-03" errorMinus="7.933473e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d20-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)">
+    <annotation>
+      <item key="Title" value="(D2(SIG(Q=PSI(2S)))/DPT/DYRAP)/(D2(SIG(Q=J/PSI)))/DPT/DYRAP)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d20-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.900000e-02" errorPlus="8.523497e-03" errorMinus="9.254729e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.550000e-02" errorPlus="6.530697e-03" errorMinus="7.324616e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.700000e-02" errorPlus="7.602631e-03" errorMinus="7.602631e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.600000e-02" errorPlus="7.192357e-03" errorMinus="7.192357e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="5.040000e-02" errorPlus="7.192357e-03" errorMinus="8.929166e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.990000e-02" errorPlus="6.708204e-03" errorMinus="8.306624e-03"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d21-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=J/PSI)/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=J/PSI)/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d21-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.710000e-01" errorPlus="6.708204e-03" errorMinus="6.708204e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.850000e-01" errorPlus="6.403124e-03" errorMinus="6.403124e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.200000e-01" errorPlus="6.403124e-03" errorMinus="6.403124e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.450000e-01" errorPlus="8.602325e-03" errorMinus="8.602325e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.730000e-01" errorPlus="5.830952e-03" errorMinus="5.830952e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.170000e-01" errorPlus="7.810250e-03" errorMinus="7.810250e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.540000e-01" errorPlus="7.211103e-03" errorMinus="7.211103e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="5.350000e-01" errorPlus="7.211103e-03" errorMinus="7.211103e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="6.330000e-01" errorPlus="1.802776e-02" errorMinus="1.802776e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="6.460000e-01" errorPlus="4.494441e-02" errorMinus="4.494441e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d22-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=J/PSI)/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=J/PSI)/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d22-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.650000e-01" errorPlus="9.899495e-03" errorMinus="9.899495e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.810000e-01" errorPlus="9.899495e-03" errorMinus="9.899495e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.240000e-01" errorPlus="9.219544e-03" errorMinus="9.219544e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.800000e-01" errorPlus="1.000000e-02" errorMinus="1.000000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.810000e-01" errorPlus="9.899495e-03" errorMinus="9.899495e-03"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="6.160000e-01" errorPlus="4.031129e-02" errorMinus="4.031129e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d23-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=J/PSI)/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=J/PSI)/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d23-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.070000e-01" errorPlus="1.166190e-02" errorMinus="1.166190e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.210000e-01" errorPlus="1.081665e-02" errorMinus="1.081665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.190000e-01" errorPlus="1.389244e-02" errorMinus="1.389244e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.380000e-01" errorPlus="1.303840e-02" errorMinus="1.303840e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.530000e-01" errorPlus="1.140175e-02" errorMinus="1.140175e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.750000e-01" errorPlus="1.000000e-02" errorMinus="1.000000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.990000e-01" errorPlus="1.081665e-02" errorMinus="1.081665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.350000e-01" errorPlus="1.140175e-02" errorMinus="1.140175e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.760000e-01" errorPlus="1.252996e-02" errorMinus="1.252996e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.660000e-01" errorPlus="1.476482e-02" errorMinus="1.476482e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="5.830000e-01" errorPlus="3.538361e-02" errorMinus="3.538361e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d24-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=J/PSI)/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=J/PSI)/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d24-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.990000e-01" errorPlus="1.562050e-02" errorMinus="1.562050e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="2.250000e-01" errorPlus="1.640122e-02" errorMinus="1.640122e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="2.390000e-01" errorPlus="1.640122e-02" errorMinus="1.640122e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.330000e-01" errorPlus="1.581139e-02" errorMinus="1.581139e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.370000e-01" errorPlus="1.749286e-02" errorMinus="1.749286e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.500000e-01" errorPlus="1.664332e-02" errorMinus="1.664332e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.580000e-01" errorPlus="1.565248e-02" errorMinus="1.565248e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.990000e-01" errorPlus="1.280625e-02" errorMinus="1.280625e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.210000e-01" errorPlus="1.802776e-02" errorMinus="1.802776e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.560000e-01" errorPlus="1.878829e-02" errorMinus="1.878829e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.580000e-01" errorPlus="2.102380e-02" errorMinus="2.102380e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d25-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=J/PSI)/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=J/PSI)/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d25-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="2.140000e-01" errorPlus="1.769181e-02" errorMinus="1.769181e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.260000e-01" errorPlus="2.561250e-02" errorMinus="2.561250e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.750000e-01" errorPlus="2.690725e-02" errorMinus="2.690725e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.940000e-01" errorPlus="2.280351e-02" errorMinus="2.280351e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.680000e-01" errorPlus="2.334524e-02" errorMinus="2.334524e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.320000e-01" errorPlus="3.047950e-02" errorMinus="3.047950e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d26-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=PSI(2S))/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=PSI(2S))/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d26-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.260000e-01" errorPlus="4.244997e-02" errorMinus="4.244997e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.500000e-01" errorPlus="2.865310e-02" errorMinus="2.865310e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.350000e-01" errorPlus="2.900000e-02" errorMinus="2.900000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.780000e-01" errorPlus="3.182766e-02" errorMinus="3.182766e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.940000e-01" errorPlus="3.687818e-02" errorMinus="3.687818e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.310000e-01" errorPlus="2.973214e-02" errorMinus="2.973214e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="4.560000e-01" errorPlus="3.753665e-02" errorMinus="3.753665e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="4.870000e-01" errorPlus="2.941088e-02" errorMinus="2.941088e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="5.720000e-01" errorPlus="3.753665e-02" errorMinus="3.753665e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d26-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title=" FB(Q=PSI(2S))/FB(Q=J/PSI)">
+    <annotation>
+      <item key="Title" value=" FB(Q=PSI(2S))/FB(Q=J/PSI)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d26-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.460000e+00" errorPlus="2.061553e-01" errorMinus="2.061553e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.300000e+00" errorPlus="1.442221e-01" errorMinus="1.442221e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.200000e+00" errorPlus="1.131371e-01" errorMinus="1.131371e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.190000e+00" errorPlus="1.063015e-01" errorMinus="1.063015e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.160000e+00" errorPlus="1.140175e-01" errorMinus="1.140175e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.160000e+00" errorPlus="7.810250e-02" errorMinus="7.810250e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.100000e+00" errorPlus="9.219544e-02" errorMinus="9.219544e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.080000e+00" errorPlus="6.403124e-02" errorMinus="6.403124e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="1.080000e+00" errorPlus="7.071068e-02" errorMinus="7.071068e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d27-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=PSI(2S))/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=PSI(2S))/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d27-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.460000e-01" errorPlus="9.741663e-02" errorMinus="9.741663e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.080000e-01" errorPlus="3.162278e-02" errorMinus="3.162278e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.090000e-01" errorPlus="4.134005e-02" errorMinus="4.134005e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.200000e-01" errorPlus="5.000000e-02" errorMinus="5.000000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.660000e-01" errorPlus="4.031129e-02" errorMinus="4.031129e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.750000e-01" errorPlus="4.252058e-02" errorMinus="4.252058e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="5.100000e-01" errorPlus="5.000000e-02" errorMinus="5.000000e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d27-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title=" FB(Q=PSI(2S))/FB(Q=J/PSI)">
+    <annotation>
+      <item key="Title" value=" FB(Q=PSI(2S))/FB(Q=J/PSI)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d27-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.330000e+00" errorPlus="5.554278e-01" errorMinus="5.554278e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.420000e+00" errorPlus="1.565248e-01" errorMinus="1.565248e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.260000e+00" errorPlus="1.780449e-01" errorMinus="1.780449e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.180000e+00" errorPlus="1.843909e-01" errorMinus="1.843909e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.160000e+00" errorPlus="1.272792e-01" errorMinus="1.272792e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.000000e+00" errorPlus="1.140175e-01" errorMinus="1.140175e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.090000e+00" errorPlus="1.063015e-01" errorMinus="1.063015e-01"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d28-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG(Q=PSI(2S))/SIG(Q=B-HAD)">
+    <annotation>
+      <item key="Title" value="SIG(Q=PSI(2S))/SIG(Q=B-HAD)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d28-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.100000e-01" errorPlus="9.219544e-02" errorMinus="9.219544e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.900000e-01" errorPlus="4.242641e-02" errorMinus="4.242641e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.000000e-01" errorPlus="5.656854e-02" errorMinus="5.656854e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.000000e-01" errorPlus="6.403124e-02" errorMinus="6.403124e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="3.700000e-01" errorPlus="5.000000e-02" errorMinus="5.000000e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.720000e-01" errorPlus="3.807887e-02" errorMinus="3.807887e-02"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="4.500000e-01" errorPlus="5.656854e-02" errorMinus="5.656854e-02"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d28-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title=" FB(Q=PSI(2S))/FB(Q=J/PSI)">
+    <annotation>
+      <item key="Title" value=" FB(Q=PSI(2S))/FB(Q=J/PSI)" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d28-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.200000e+00" errorPlus="4.242641e-01" errorMinus="4.242641e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="8.800000e-01" errorPlus="1.838478e-01" errorMinus="1.838478e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.240000e+00" errorPlus="2.343075e-01" errorMinus="2.343075e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.140000e+00" errorPlus="2.549510e-01" errorMinus="2.549510e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.230000e+00" errorPlus="1.780449e-01" errorMinus="1.780449e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.040000e+00" errorPlus="1.220656e-01" errorMinus="1.220656e-01"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="9.700000e-01" errorPlus="1.140175e-01" errorMinus="1.140175e-01"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d29-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d29-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.200000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.550000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.700000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="2.200000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.600000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="9.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d29-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d29-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-4.900000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.100000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-1.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-8.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="-3.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d29-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d29-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.200000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.130000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.270000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-6.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-3.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-1.240000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="-1.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d29-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d29-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.700000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="2.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="8.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="8.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="5.750000e+01" errorPlus="1.250000e+01" errorMinus="1.250000e+01"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d30-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d30-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.400000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.600000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.090000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d30-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d30-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-4.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-1.100000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-8.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d30-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d30-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.600000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-1.560000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-4.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-3.400000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d30-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d30-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.200000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.340000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.800000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d31-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d31-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.460000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-5.600000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-4.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.900000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.400000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.800000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d31-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d31-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.060000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="3.400000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-3.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-6.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-7.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.900000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-8.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-7.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d31-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d31-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.900000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.250000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.050000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-7.000000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-5.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.740000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.040000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-3.900000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-2.600000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d31-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d31-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.130000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.190000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.200000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="3.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.380000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="3.750000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="0.000000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d32-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d32-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="7.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="7.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="4.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.180000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.500000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.800000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="2.300000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d32-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d32-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="1.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="9.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="-2.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.400000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-1.200000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-8.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-5.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-1.100000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-9.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d32-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d32-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-2.220000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="-1.540000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="-1.190000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-9.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-6.900000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="-5.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.820000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.050000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-4.400000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-3.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d32-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d32-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="2.260000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.125000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.330000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.375000e+00" errorPlus="1.250000e-01" errorMinus="1.250000e-01"/>
+    <measurement value="1.010000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="7.000000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.250000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="5.500000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.750000e+00" errorPlus="2.500000e-01" errorMinus="2.500000e-01"/>
+    <measurement value="4.400000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.600000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.440000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="6.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="3.200000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d33-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d33-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="-9.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.000000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.000000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-6.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-9.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d33-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d33-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="1.650000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.800000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="1.240000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="3.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d33-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d33-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="-1.650000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.700000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-1.630000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.200000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-2.300000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d33-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d33-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.750000e+00" errorPlus="1.250000e+00" errorMinus="1.250000e+00"/>
+    <measurement value="3.360000e+00" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.600000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="3.100000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="9.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.900000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.100000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d34-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d34-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-7.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.120000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.250000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.710000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.500000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="9.600000e-05" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d34-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d34-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="6.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-4.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-1.100000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-5.600000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.500000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="-3.700000e-05" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d34-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d34-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-4.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.620000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.820000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.080000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-6.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-3.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-2.030000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-8.900000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="-1.330000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d34-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d34-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.000000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.450000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.630000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.050000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="9.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.150000e+01" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="5.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.275000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="3.300000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.425000e+01" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="1.690000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.650000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="6.900000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.400000e+01" errorPlus="6.000000e+00" errorMinus="6.000000e+00"/>
+    <measurement value="9.700000e-05" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d35-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d35-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.850000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-2.900000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="7.600000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="8.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="4.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.800000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.800000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d35-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d35-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.500000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="2.200000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-3.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-2.000000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-7.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-8.000000e-05" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d35-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d35-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.960000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-5.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.280000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.630000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-7.300000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-2.700000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d35-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d35-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.770000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.110000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.450000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="6.400000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="2.300000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.900000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d36-x01-y01" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d36-x01-y01" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.220000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-1.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.600000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="4.700000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="2.800000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.100000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d36-x01-y02" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d36-x01-y02" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.300000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="2.100000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.900000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.400000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-6.000000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.600000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-3.100000e-05" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d36-x01-y03" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d36-x01-y03" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.570000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="-6.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-2.600000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="-1.540000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="-6.500000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="-2.430000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="-2.100000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+  <dataPointSet name="d36-x01-y04" dimension="2"
+      path="/REF/CMS_2012_I944755" title="SIG-SIG(POL=0) IN NB/GEV">
+    <annotation>
+      <item key="Title" value="SIG-SIG(POL=0) IN NB/GEV" sticky="true"/>
+      <item key="AidaPath" value="/REF/CMS_2012_I944755/d36-x01-y04" sticky="true"/>
+    </annotation>
+  <dataPoint>
+    <measurement value="6.000000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.570000e-01" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="7.250000e+00" errorPlus="7.500000e-01" errorMinus="7.500000e-01"/>
+    <measurement value="5.300000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="8.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="2.350000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="9.500000e+00" errorPlus="5.000000e-01" errorMinus="5.000000e-01"/>
+    <measurement value="1.430000e-02" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.100000e+01" errorPlus="1.000000e+00" errorMinus="1.000000e+00"/>
+    <measurement value="5.200000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="1.350000e+01" errorPlus="1.500000e+00" errorMinus="1.500000e+00"/>
+    <measurement value="1.770000e-03" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  <dataPoint>
+    <measurement value="2.250000e+01" errorPlus="7.500000e+00" errorMinus="7.500000e+00"/>
+    <measurement value="1.430000e-04" errorPlus="0.000000e+00" errorMinus="0.000000e+00"/>
+  </dataPoint>
+  </dataPointSet>
+</aida>
