@@ -1,0 +1,49 @@
+Name: CMS_2011_I878118
+Year: 2011
+Summary: <Insert short CMS_2011_I878118 description>
+Experiment: CMS
+Collider: <Insert CMS_2011_I878118 collider>
+InspireID: 878118
+Status: UNVALIDATED
+Authors:
+ - Your Name <your@email.address>
+#References:
+# - <Example: Phys.Lett.B639:151-158,2006, Erratum-ibid.B658:285-289,2008>
+# - <Example: doi:10.1016/j.physletb.2006.04.048>
+# - <Example: arXiv:hep-ex/0511054 (plus erratum)>
+RunInfo:
+  <Insert event types (not gen-specific), energy, any kinematic
+  efficiency cut(s) that may be needed; essentially any details needed to set
+  up a generator to reproduce the data.>
+NumEvents: 1000000
+NeedCrossSection: no
+#Beams: <Insert beam pair(s), e.g. [p-, p+] or [[p-, e-], [p-, e+]]>
+#Energies: <Insert list of run energies or beam energy pairs in GeV,
+#           e.g. [1960] or [[8.0, 3.5]] or [630, 1800]. Order pairs to match "Beams">
+#PtCuts: <Insert list of kinematic pT cuts in GeV, e.g. [0, 20]>
+#NeedCrossSection: True
+Description:
+  '<Insert a fairly long description, including what is measured
+  and if possible what it is useful for in terms of MC validation
+  and tuning. Use \LaTeX for maths like $\pT > \unit{50}{\GeV}$.
+  Use single quotes around the block if required (see YAML 1.2 manual)>'
+BibKey: Khachatryan:2010yr
+BibTeX: '@article{Khachatryan:2010yr,
+      author         = "Khachatryan, Vardan and others",
+      title          = "{Prompt and non-prompt $J/\psi$ production in $pp$
+                        collisions at $\sqrt{s}=7$ TeV}",
+      collaboration  = "CMS Collaboration",
+      journal        = "Eur.Phys.J.",
+      volume         = "C71",
+      pages          = "1575",
+      doi            = "10.1140/epjc/s10052-011-1575-8",
+      year           = "2011",
+      eprint         = "1011.4193",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      reportNumber   = "CERN-PH-EP-2010-046, CMS-BPH-10-002",
+      SLACcitation   = "%%CITATION = ARXIV:1011.4193;%%",
+}'
+ToDo:
+ - Implement the analysis, test it, remove this ToDo, and mark as VALIDATED :-)
+
