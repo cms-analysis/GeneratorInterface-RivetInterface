@@ -65,10 +65,12 @@ namespace Rivet {
               const double ptB= p.momentum().pT();
               const double pty= p.momentum().rapidity();
 //              cout << " in loop  PdgId " << id  << endl;
-//              cout << " pt = " << ptB << " y = " << pty << endl;
-              _h_dsigdpt->fill(ptB, weight);
+//                  cout << " pt = " << ptB << " y = " << pty << endl;
+               if (pty<2.4&&pty>-2.4){
+             _h_dsigdpt->fill(ptB, weight);}
+               if (ptB>5){
               _h_dsigdy ->fill(pty, weight);
-              
+              }
           }
        }
 
@@ -79,7 +81,7 @@ namespace Rivet {
     void finalize() {
 
       // value for xsection is in picobarn
-      double invlumi = crossSection()/picobarn/sumOfWeights();
+      double invlumi = crossSection()/1000000/sumOfWeights();
       // apply factor of 2, since we count B+ and B-, but xsection is for B+
       scale(_h_dsigdpt, invlumi/2.0); 
       scale(_h_dsigdy, invlumi/2.0);

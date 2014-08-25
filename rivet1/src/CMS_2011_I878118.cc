@@ -1,12 +1,25 @@
 // -*- C++ -*-
+//#include "Rivet/Analysis.hh"
+//#include "Rivet/RivetAIDA.hh"
+//#include "Rivet/Tools/Logging.hh"
+//#include "Rivet/Projections/FinalState.hh"
+//#include "Rivet/Projections/UnstableFinalState.hh"
+//#include "Rivet/Projections/IdentifiedFinalState.hh"
+
+//#include "HepMC/IO_AsciiParticles.h"
+
 #include "Rivet/Analysis.hh"
-#include "Rivet/RivetAIDA.hh"
-#include "Rivet/Tools/Logging.hh"
 #include "Rivet/Projections/FinalState.hh"
 #include "Rivet/Projections/UnstableFinalState.hh"
 #include "Rivet/Projections/IdentifiedFinalState.hh"
 
-#include "HepMC/IO_AsciiParticles.h"
+//#include "Rivet/Projections/FastJets.hh"
+//#include "Rivet/Projections/WFinder.hh"
+//#include "Rivet/Projections/ZFinder.hh"
+//#include "fastjet/tools/Filter.hh"
+//#include "fastjet/tools/Pruner.hh"
+
+
 /// @todo Include more projections as required, e.g. ChargedFinalState, FastJets, ZFinder...
 
 namespace Rivet {
@@ -43,13 +56,13 @@ namespace Rivet {
       UnstableFinalState ufs(-6.0, 6.0, 0.0*GeV);
       addProjection(ufs, "UFS");
        Nevent = 0;
-      _hpsi_prompt_y1= bookHistogram1D(8, 1, 1);
-      _hpsi_prompt_y2= bookHistogram1D(9, 1, 1);
-      _hpsi_prompt_y3= bookHistogram1D(10, 1, 1);
+       //_hpsi_prompt_y1= bookHistogram1D(8, 1, 1);
+       //_hpsi_prompt_y2= bookHistogram1D(9, 1, 1);
+       //_hpsi_prompt_y3= bookHistogram1D(10, 1, 1);
 
-      _hpsi_non_prompt_y1= bookHistogram1D(11, 1, 1);
-      _hpsi_non_prompt_y2= bookHistogram1D(12, 1, 1);
-      _hpsi_non_prompt_y3= bookHistogram1D(13, 1, 1);
+       //_hpsi_non_prompt_y1= bookHistogram1D(11, 1, 1);
+       //_hpsi_non_prompt_y2= bookHistogram1D(12, 1, 1);
+       //_hpsi_non_prompt_y3= bookHistogram1D(13, 1, 1);
 
     }
 
@@ -121,7 +134,7 @@ namespace Rivet {
 
     // Data members like post-cuts event weight counters go here
 
-  HepMC::IO_AsciiParticles ascii_io;
+    //HepMC::IO_AsciiParticles ascii_io;
 
 
   private:
@@ -130,12 +143,19 @@ namespace Rivet {
     //@{
 //    AIDA::IProfile1D *_h_XXXX;
 //    AIDA::IHistogram1D *_h_YYYY;
-     AIDA::IHistogram1D *_hpsi_prompt_y1;
-     AIDA::IHistogram1D *_hpsi_prompt_y2;
-     AIDA::IHistogram1D *_hpsi_prompt_y3;
-     AIDA::IHistogram1D *_hpsi_non_prompt_y1;
-     AIDA::IHistogram1D *_hpsi_non_prompt_y2;
-     AIDA::IHistogram1D *_hpsi_non_prompt_y3;
+    //  AIDA::IHistogram1D *_hpsi_prompt_y1;
+    //  AIDA::IHistogram1D *_hpsi_prompt_y2;
+    //  AIDA::IHistogram1D *_hpsi_prompt_y3;
+    //  AIDA::IHistogram1D *_hpsi_non_prompt_y1;
+    //  AIDA::IHistogram1D *_hpsi_non_prompt_y2;
+    //  AIDA::IHistogram1D *_hpsi_non_prompt_y3;
+
+    Histo1DPtr _hpsi_prompt_y1;
+    Histo1DPtr _hpsi_prompt_y2;
+    Histo1DPtr _hpsi_prompt_y3;
+    Histo1DPtr _hpsi_non_prompt_y1;
+    Histo1DPtr _hpsi_non_prompt_y2;
+    Histo1DPtr _hpsi_non_prompt_y3;
     //@}
 
 

@@ -1,10 +1,10 @@
 Name: CMS_2011_I883318
 Year: 2011
-Summary: <Insert short CMS_2011_I883318 description>
+Summary: Measurement of $B^{+}$ Production Cross Section in pp Collisions at $\sqrt{s}=7TeV$ 
 Experiment: CMS
-Collider: <Insert CMS_2011_I883318 collider>
+Collider: LHC 
 InspireID: 883318
-Status: UNVALIDATED
+Status: VALIDATED
 Authors:
  - Your Name <your@email.address>
 #References:
@@ -23,10 +23,12 @@ NeedCrossSection: no
 #PtCuts: <Insert list of kinematic pT cuts in GeV, e.g. [0, 20]>
 #NeedCrossSection: True
 Description:
-  '<Insert a fairly long description, including what is measured
-  and if possible what it is useful for in terms of MC validation
-  and tuning. Use \LaTeX for maths like $\pT > \unit{50}{\GeV}$.
-  Use single quotes around the block if required (see YAML 1.2 manual)>'
+Measurement of the total and differential cross sections $d \sigma/ d p^{B}_{T}$ and $d \sigma / d y^{B}$. With the $p^{B}_{T} > 5 GeV$ and |y ^{B} < 2.4|.
+
+#  '<Insert a fairly long description, including what is measured
+#  and if possible what it is useful for in terms of MC validation
+#  and tuning. Use \LaTeX for maths like $\pT > \unit{50}{\GeV}$.
+#  Use single quotes around the block if required (see YAML 1.2 manual)>'
 BibKey: Khachatryan:2011mk
 BibTeX: '@article{Khachatryan:2011mk,
       author         = "Khachatryan, Vardan and others",
@@ -44,6 +46,4 @@ BibTeX: '@article{Khachatryan:2011mk,
       reportNumber   = "CERN-PH-EP-2010-087, CMS-BPH-10-004",
       SLACcitation   = "%%CITATION = ARXIV:1101.0131;%%",
 }'
-ToDo:
- - Implement the analysis, test it, remove this ToDo, and mark as VALIDATED :-)
 
