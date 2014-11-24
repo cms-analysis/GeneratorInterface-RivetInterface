@@ -6,8 +6,8 @@ LogX=0
 LogY=0
 #YMin= 0.000001 when log to see the data
 YMin= -0.001
-RatioPlotYMin= 0.1
-RatioPlotYMax= 3.9
+RatioPlotYMin= -7.0
+RatioPlotYMax= 3.0
 LegendXPos=0.37
 # END PLOT
 
@@ -28,8 +28,7 @@ YLabel= $1/\sigma \; \text{d}\sigma/\text{d}p_{T}^{b-sublead}$
 LogX=0
 LogY=1
 YMin= 0.0000001
-RatioPlotYMin= 0.2
-RatioPlotYMax= 1.3
+RatioPlotYMax= 17.0
 LegendXPos=0.37
 # END PLOT
 
@@ -40,7 +39,6 @@ YLabel= $1/\sigma \; \text{d}\sigma/\text{d}p_{T}^{bb}$
 LogX=0
 LogY=1
 RatioPlotYMin= 0.2
-RatioPlotYMax= 1.2
 LegendXPos=0.35
 # END PLOT
 
@@ -49,9 +47,8 @@ Title= Mass di-bjets distribution (GeV)
 XLabel= $M_{bb}$ (GeV)
 YLabel= $1/\sigma \; \text{d}\sigma/\text{d}M_{bb}$
 LogX=0
-LogY=0
-YMin= -0.001
-RatioPlotYMin= -2.9
+LogY=1
+RatioPlotYMin= 0.0
 LegendXPos=0.35
 # END PLOT
 
@@ -61,8 +58,8 @@ XLabel= $\Delta R_{b,b}$
 YLabel= $1/\sigma \; \text{d}\sigma/\text{d}\Delta R_{b,b}$
 LogX=0
 LogY=0
-RatioPlotYMin= 0.2
-RatioPlotYMax= 1.8
+RatioPlotYMin= 0.35
+RatioPlotYMax= 1.6
 LegendXPos=0.01
 #LegendYPos=0.01
 # END PLOT
@@ -74,8 +71,8 @@ YLabel= $1/\sigma \; \text{d}\sigma/\text{d}\Delta\phi_{Z,bb}$
 LogX=0
 LogY=0
 YMin= -0.2
-RatioPlotYMin= 0.3
-RatioPlotYMax= 2.5
+RatioPlotYMin= -8.2
+RatioPlotYMax= 3.2
 LegendXPos=0.05
 # END PLOT
 
@@ -85,8 +82,8 @@ XLabel= $M_{Zbb}$ (GeV)
 YLabel= $1/\sigma \; \text{d}\sigma/\text{d}M_{Zbb}$
 LogX=0
 LogY=1
-RatioPlotYMin= 0.2
-RatioPlotYMax= 1.4
+RatioPlotYMin= 0.0
+RatioPlotYMax= 1.8
 LegendXPos=0.40
 # END PLOT
 
